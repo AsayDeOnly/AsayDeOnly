@@ -1,9 +1,9 @@
 - 👋 Hi, I’m AsayDeOnly
 - 👀 I’m interested in learning code
-- 🌱 I’m currently studying Android_development - Samsung_administrative_control - ADB - and - Termux
+- 🌱 I’m currently studying Android_development - Samsung_administrative_control - ADB - Termux
 - 💞️ I’m looking to collaborate on new workaround ideas
 - 📫 How to reach me github.com/AsayDeOnly
-- ⚡ Fun fact, I'm an audio engineer and producer as well
+- ⚡ Fun fact - I'm an audio engineer and producer as well
   
 
 
