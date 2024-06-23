@@ -8,8 +8,4 @@
 
 
 
-``<---
-  ([Brian5511] This  is a ✨ special ✨ 
-     repository because its `README.md` 
-  (this file) appears on your GitHub                    profile_You can click the Preview link to take a look at your changes-
--->``
+``<--([Brian5511] This is a ✨ special ✨ repository because its `README.md` (this file) appears on your profile_You can click the Preview link to take a look at your changes--->``
